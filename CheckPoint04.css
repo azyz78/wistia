@@ -1,0 +1,321 @@
+body{
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+}
+.main-section{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #dadada
+}
+.list-header{
+    display:flex;
+    justify-content: space-between;
+    margin: 1%;
+    padding-right: 46%;
+    width: 50%;
+    font-size: 96%;
+    font-weight: 600;
+    color: #6d7987;
+
+
+}
+
+
+.listes{
+    display: flex;
+    flex-direction: column;
+    width: 62%;
+    border-right: 1px solid #dadada;
+    border-left: 1px solid #dadada 
+}
+.list1, .list2 {
+    width: 100%;
+    height: 50%;
+}
+
+.list1{
+    border-bottom: 1px solid #dadada;
+    
+
+}
+.list2{
+    background: #f9f9f9
+}
+li{list-style: none;}
+img{
+    height: 80px;
+    width: 228px;
+    padding: 17px;
+    padding-right: 3%;
+
+}
+.btn-header{
+    border: none;
+    height: 101%;
+    width: 51% ;
+    background: none     
+}
+.btn-sign{
+    border-right: 1px solid #dadada
+}
+
+.button1{ 
+    display: flex;
+    width: 24%;  
+}
+.button2{
+    height: 20%;
+    background: #f9f9f9;
+    border:none;
+    border-radius: 7%;
+    font-size: 107%;
+}
+main{
+    display: flex;
+    background: #cf9ca5;
+    height: 550px;
+    ;
+    
+    
+}
+video{
+    width: 50%;
+    margin-left: -9%;
+    height: 86%;
+
+}
+.liste3{
+    width: 40%;
+    padding: 10%;
+}
+.button2{
+    height: 23%;
+    width: 36%;
+}
+span{
+    color: #fffeff;
+}
+form{
+    display:flex;
+
+    
+}
+.block1{
+    background: #fed24b;
+    width: 33.33%;
+    padding-bottom: 5%
+}
+.image1{
+    width: 17%;
+    height: 21%;
+    margin-left: 6%;
+
+}
+.block2{
+    background: #50c2a0;
+    width: 33.33%;
+}
+.block3{
+    background: #3eaaf5;
+    width: 33.33%;
+    padding-top: 1%;
+}
+.image2{
+    width: 17%;
+    height: 18%;
+    margin-left: 7%;
+}
+.image3{
+    width: 15%;
+    height: 17%;
+    margin-left: 6%;
+}
+.button3{
+    background: #fed24b;
+    width: 37%;
+    height: 18%;
+    margin-left: 10%;
+    font-size: 97%;
+    border-radius: 7px;
+    border: 2px solid white
+}
+.button4{
+    background: #50c2a0;
+    width: 37%;
+    height: 15%;
+    margin-left: 10%;
+    font-size: 97%;
+    border-radius: 7px;
+    border: 2px solid white
+
+}
+.button5{
+    background:#3eaaf5;
+    width: 41%;
+    height: 15%;
+    margin-left: 10%;
+    font-size: 97%;
+    border-radius: 7px;
+    margin-top: 5%;
+    border: 2px solid white
+
+}
+h2{
+    color: #fcffff;
+    margin-left: 10%;
+}
+p{
+    margin-left: 10%;
+    color: #524113;
+    font-size: 136%;    
+}
+a{
+    color: #524113 ;
+}
+pre{
+    display: flex;
+    width: 51%;
+    padding-top: 3%;
+}
+.pre1{
+    height: 10%;
+}
+.pre2{
+    height: 10%;
+}
+.pre3{
+    height: 10%;
+}
+.pre4{
+    height: 10%;
+    margin-top: 1%;
+
+}
+.pre5{
+    height: 10%;
+    margin-top: -2%;
+}
+.pre6{
+    height: 10%;
+}
+.second-section{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2%;
+}
+.noscript1{
+    height: 50%;
+    width: 93%;
+}
+.noscript2{
+    height: 51%;
+    width: 92%;
+}
+.noscript3{
+    height: 51%;
+    width: 93%;
+}
+.first{
+    color: #363844;
+    font-size: 118%
+}
+.first2{
+    color: #363844;
+    font-size: 118%
+}
+.first3{
+    color: #363844;
+    font-size: 118%
+}
+.paragh{
+    font-size: 109%;
+    color: #383840;
+}
+.paragh2{
+    font-size: 109%;
+    color: #383840;
+}
+.paragh3{
+    font-size: 109%;
+    color: #383840;
+}
+.more1{
+    margin-left: 10%;
+    color: #467db6;
+}
+.more2{
+    margin-left: 10%;
+    color: #467db6;
+}
+.more3{
+    margin-left: 10%;
+    color: #467db6;
+}
+h3{
+    background-color: #e8e7e5;
+    width: 100%;
+    height: 49px;
+    text-align: center;
+    padding-top: 2%;
+    color: #918f90;
+    font-size: 109%;
+}
+.footer1{
+    background:none;
+    margin-top: 4%;
+    height: 81px;
+}
+.more4{
+    color: #918f90;
+}
+footer{
+    background: #2a2d36;
+    display: flex;
+}
+
+.list-footer{
+    width: 25%;
+    color: #81858e;
+}
+.footer3{
+    width: 60%;
+    display: flex;
+    margin-top: 4%;
+    line-height: 185%;
+}
+.wistia2{
+    margin-left: 4%;
+    margin-top: 8%;
+    height: 17%;
+    width: 13%;
+}
+.footer2{
+    margin-left: 3%;
+    width: 35%
+}
+.wistia4{
+    margin-top: 8%;
+    font-size: 102%;
+    color: #ffffff;
+}
+.wistia3{
+    font-size: 140%;
+    font-weight: 200;
+    margin-top: 1%;
+}
+.adresse1{
+    color:#ffffff ;
+}
+.more5{
+    color: #236391;
+    font-weight: 700;
+    text-decoration: none;
+}
+.finalle{
+    justify-content: center;
+}
+.finalle1{
+    color: #81858e;
+    width: 100%;
+    font-size: 110%;
+}
